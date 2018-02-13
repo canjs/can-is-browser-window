@@ -10,7 +10,7 @@ Returns `true` if the code is running within a Browser window. Use this function
 
 With StealJS, you can import this module directly in a template that is autorendered:
 
-```javascript
+```js
 import plugin from 'can-is-browser-window';
 ```
 
@@ -19,7 +19,7 @@ import plugin from 'can-is-browser-window';
 Use `require` to load `can-is-browser-window` and everything else
 needed to create a template that uses `can-is-browser-window`:
 
-```javascript
+```js
 import plugin from "can-is-browser-window";
 ```
 

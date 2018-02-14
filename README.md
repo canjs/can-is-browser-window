@@ -11,7 +11,7 @@ Returns `true` if the code is running within a Browser window. Use this function
 With StealJS, you can import this module directly in a template that is autorendered:
 
 ```js
-import plugin from 'can-is-browser-window';
+import plugin from "can-is-browser-window";
 ```
 
 ### CommonJS use

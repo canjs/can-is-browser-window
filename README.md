@@ -5,8 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/canjs/can-is-browser-window/blob/master/LICENSE)
 [![npm version](https://badge.fury.io/js/can-is-browser-window.svg)](https://www.npmjs.com/package/can-is-browser-window)
 [![Travis build status](https://travis-ci.org/canjs/can-is-browser-window.svg?branch=master)](https://travis-ci.org/canjs/can-is-browser-window)
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/canjs/can-is-browser-window?branch=master&svg=true)](https://ci.appveyor.com/project/matthewp/can-is-browser-window)
-[![Coverage status](https://coveralls.io/repos/github/canjs/can-is-browser-window/badge.svg?branch=master)](https://coveralls.io/github/canjs/can-is-browser-window?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-is-browser-window.svg)](https://greenkeeper.io/)
 
 Returns `true` if the code is running within a Browser window. Use this function if you need special code paths for when running in a Browser window, a Web Worker, or another environment (such as Node.js).
